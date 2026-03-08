@@ -21,3 +21,13 @@ Each method has its own folder with step-by-step guides.
 ## License
 
 MIT
+
+---
+
+## 💰 Support & Get Full Version
+
+This is the free version. Get the full version with more features:
+
+[Buy on Gumroad - ](https://haualand.gumroad.com/l/discord-hosting-pro)
+
+---
