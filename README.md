@@ -28,6 +28,6 @@ MIT
 
 This is the free version. Get the full version with more features:
 
-[Buy on Gumroad - ](https://haualand.gumroad.com/l/discord-hosting-pro)
+[Buy on Gumroad - ](https://geir30.gumroad.com/l/discord-hosting-pro)
 
 ---
